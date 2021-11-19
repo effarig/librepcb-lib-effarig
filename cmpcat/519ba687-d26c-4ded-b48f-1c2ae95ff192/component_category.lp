@@ -1,0 +1,10 @@
+(librepcb_component_category 519ba687-d26c-4ded-b48f-1c2ae95ff192
+ (name "EEPROM")
+ (description "Electrical erasable and programmable read-only memory.")
+ (keywords "memory")
+ (author "James Peacock")
+ (version "0.1")
+ (created 2021-11-15T01:02:24Z)
+ (deprecated false)
+ (parent f81c3abf-dfbe-4464-b4d9-cc9824959f56)
+)

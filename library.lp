@@ -1,0 +1,12 @@
+(librepcb_library e0ccc6b2-7c15-4013-833f-b8a680cd5f68
+ (name "Effarig")
+ (description "Miscellaneous things not in the main libraries.")
+ (keywords "")
+ (author "James Peacock")
+ (version "0.1")
+ (created 2021-11-10T09:36:25Z)
+ (deprecated false)
+ (url "https://github.com/effarig/librepcb-lib-effarig")
+ (dependency 326f091b-b715-44bf-b385-b613cd60d9f3)
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)

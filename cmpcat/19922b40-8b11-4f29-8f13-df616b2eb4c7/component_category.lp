@@ -1,0 +1,10 @@
+(librepcb_component_category 19922b40-8b11-4f29-8f13-df616b2eb4c7
+ (name "EPROM")
+ (description "Erasable and programmable read-only memory.")
+ (keywords "memory")
+ (author "James Peacock")
+ (version "0.1")
+ (created 2021-11-15T00:57:55Z)
+ (deprecated false)
+ (parent f81c3abf-dfbe-4464-b4d9-cc9824959f56)
+)
